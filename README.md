@@ -1,6 +1,7 @@
 # Executive Dashboard Template (Power BI)
 
-![Dashboard Preview]<img width="553" height="308" alt="Black" src="https://github.com/user-attachments/assets/253ed070-2f4e-418b-8e4b-aea633e0cf37" />
+![Dashboard Preview]
+<img width="553" height="308" alt="Black" src="https://github.com/user-attachments/assets/253ed070-2f4e-418b-8e4b-aea633e0cf37" />
 
 
 A ready-to-use **Power BI dashboard template** designed for financial or operations reporting. This template helps visualize budgets vs actuals across key expense categories like Electricity, Equipment, Maintenance, Marketing, and more.
