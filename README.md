@@ -1,6 +1,5 @@
 # Executive Dashboard Template (Power BI)
 
-![Dashboard Preview]
 <img width="553" height="308" alt="Black" src="https://github.com/user-attachments/assets/253ed070-2f4e-418b-8e4b-aea633e0cf37" />
 
 
