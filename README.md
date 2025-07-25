@@ -40,16 +40,6 @@ git clone https://github.com/YOUR_USERNAME/powerbi-dashboard-template.git
 - Launch Power BI Desktop
 - Open dashboard.pbix (or .pbit template)
 
-3. Optional: Replace sample data with your own
-
-🙌 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss.
-
-
-Replace:
-- `dashboard-preview.png` with your image name
-- `dashboard.pbix` with your actual Power BI file name
-
 ---
 
 ## 📦 4. Optional Extras
