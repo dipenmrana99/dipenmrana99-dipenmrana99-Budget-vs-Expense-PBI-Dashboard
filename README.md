@@ -5,8 +5,6 @@
 
 A ready-to-use **Power BI dashboard template** designed for financial or operations reporting. This template helps visualize budgets vs actuals across key expense categories like Electricity, Equipment, Maintenance, Marketing, and more.
 
----
-
 ## 📊 Features
 
 - Interactive date & store filtering
@@ -21,13 +19,9 @@ A ready-to-use **Power BI dashboard template** designed for financial or operati
   - Professional Fees
   - Shipping Cost
 
----
-
 ## 🛠 Requirements
 
 - [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-
----
 
 ## 🚀 Getting Started
 
@@ -39,8 +33,6 @@ git clone https://github.com/YOUR_USERNAME/powerbi-dashboard-template.git
 
 - Launch Power BI Desktop
 - Open dashboard.pbix (or .pbit template)
-
----
 
 📦 3. Optional Extras
 - Add a `.gitignore` to exclude local Power BI cache or backup files:
