@@ -42,7 +42,7 @@ git clone https://github.com/YOUR_USERNAME/powerbi-dashboard-template.git
 
 ---
 
-## 📦 4. Optional Extras
+📦 3. Optional Extras
 - Add a `.gitignore` to exclude local Power BI cache or backup files:
 
 📝 License
