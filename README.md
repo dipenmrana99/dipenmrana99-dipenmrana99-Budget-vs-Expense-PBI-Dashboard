@@ -1,6 +1,7 @@
 # Executive Dashboard Template (Power BI)
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview]<img width="553" height="308" alt="Black" src="https://github.com/user-attachments/assets/253ed070-2f4e-418b-8e4b-aea633e0cf37" />
+
 
 A ready-to-use **Power BI dashboard template** designed for financial or operations reporting. This template helps visualize budgets vs actuals across key expense categories like Electricity, Equipment, Maintenance, Marketing, and more.
 
@@ -33,3 +34,26 @@ A ready-to-use **Power BI dashboard template** designed for financial or operati
 1. **Clone the repository**
 ```bash
 git clone https://github.com/YOUR_USERNAME/powerbi-dashboard-template.git
+```
+2. **Open the dashboard**
+
+- Launch Power BI Desktop
+- Open dashboard.pbix (or .pbit template)
+
+3. Optional: Replace sample data with your own
+
+🙌 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss.
+
+
+Replace:
+- `dashboard-preview.png` with your image name
+- `dashboard.pbix` with your actual Power BI file name
+
+---
+
+## 📦 4. Optional Extras
+- Add a `.gitignore` to exclude local Power BI cache or backup files:
+
+📝 License
+This project is licensed under the MIT License – feel free to use, share, and customize it.
